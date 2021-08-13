@@ -1,0 +1,4 @@
+Valid from: Sat Aug 29 18:43:37 IST 2020 until: Mon Aug 22 18:43:37 IST 2050
+Certificate fingerprints:
+         SHA1: 4B:7D:4B:20:C4:25:77:59:B9:52:1C:AD:C4:4F:2A:9A:E8:CA:DA:5C
+         SHA256: E5:CF:E3:8C:B2:CD:E4:0B:C8:4B:3F:D8:C5:A0:56:38:98:0B:13:AC:2A:73:00:3A:06:82:FE:D5:AB:F5:BB:AE

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245720728661",
+    "project_id": "notesport-637c8",
+    "storage_bucket": "notesport-637c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245720728661:android:9c90d902fef125a5df80dc",
+        "android_client_info": {
+          "package_name": "com.example.notesport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245720728661-cd7s8v4tsjithnn2bmudqqac2hdj5g4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesport",
+            "certificate_hash": "4b7d4b20c4257759b9521cadc44f2a9ae8cada5c"
+          }
+        },
+        {
+          "client_id": "245720728661-545fm2rcrhs3pg0vn6fg9vm2ebq3r140.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfOpNXLK2T7Q7EACsIXMytUBeyf9PJOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245720728661-545fm2rcrhs3pg0vn6fg9vm2ebq3r140.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

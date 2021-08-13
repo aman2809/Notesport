@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notesport</string>
+    <string name="app_splashscreen_logo">app_splashscreen_logo</string>
+    <string name="home">Home</string>
+    <string name="sign_out">Sign out</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Academic_Year">
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </string-array>
+
+</resources>
